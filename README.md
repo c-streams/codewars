@@ -1,2 +1,2 @@
 # codewars
-My Code Wars solutions to challenges 
+A random compilation of my solutions to CodeWars challenges. 
